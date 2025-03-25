@@ -1,4 +1,4 @@
-# Library Management System for Collage Entities With Attributes
+# Library Management System for Collage (Entities With Attributes)
 
 [Click Here For Diagram](https://app.eraser.io/workspace/9XXFpBXwbbgsRxNUDn6F)
 
